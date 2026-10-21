@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,50:F72585,100:00F5D4&height=230&section=header&text=Houssam%20Ouriarhi&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20Gamer%20%7C%20Lifelong%20Learner&descSize=18&descAlignY=60" alt="Houssam Ouriarhi banner" width="100%" />
 
-<a href="https://github.com/YOUR-USERNAME">
+<a href="https://github.com/houssam-ouriarhi">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00F5D4&center=true&vCenter=true&width=720&lines=Press+START+to+explore+my+profile;Building+with+C%23+%7C+React+%7C+TypeScript;Leveling+up+every+single+day;Code+hard.+Game+harder." alt="Typing animation" />
 </a>
 
