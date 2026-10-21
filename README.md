@@ -130,7 +130,7 @@ Gaming is where I recharge, and it shapes how I solve problems: read the situati
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-ouriarhi.houssam@gmail.com-F72585?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:ouriarhi.houssam@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-YOUR--USERNAME-7B2FF7?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/houssam-ouriarhi)
+[![GitHub](https://img.shields.io/badge/GitHub-houssam--ouriarhi-7B2FF7?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/houssam-ouriarhi)
 
 _Open to collaboration, learning together and good conversations about code and games._
 
